@@ -1,6 +1,6 @@
 # Team Tracking
 
-https://github.com/user-attachments/assets/72998ff2-f3d9-4c3c-bc44-47b3e7c0ca2b
+https://github.com/user-attachments/assets/b09e3491-6ec4-4114-b702-4741bd63776f
 
 Tracking unpredictable objects such as a person playing a team sport can be tricky.
 If the raw bounding box from an object detection algorithm such as Yolo is used, velocity vectors are created 
