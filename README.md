@@ -18,5 +18,3 @@ Instead, what this algorithm tries is:
 3) Using KMeans again to determine the team that that uniform is part of.
 4) Object tracking by team - so nearby players (say a forward and the opposition's defense) are handled by a different tracker - and as such the tracker's job is made simpler.
 
-
-Code to come! Its still WIP
